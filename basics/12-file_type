@@ -1,2 +1,2 @@
 #!/bin/bash
-vi /tmp/imafile
+file /tmp/imafile
